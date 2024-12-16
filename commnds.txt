@@ -1,0 +1,279 @@
+sudo yum install git
+    2  git config --global --list
+    3  git config --global user.name "shsahikumar"
+    4  git config --global email "shsahikumarmandya7026@gmail.com"
+    5  git config --global email "shashikumarmandya7026@gmail.com"
+    6  git config --global user.email "shashikumarmandya7026@gmail.com"
+    7  git config --global user.email
+    8  git config --list
+    9  w
+   10  git -v
+   11  git clone git@github.com:Shashikuamar/Git7026.git
+   12  ssh key gen -t rsa
+   13  ssh-key gen -t rsa
+   14  ssh-keygen -t rsa
+   15  cat /home/ec2-user/.ssh/id_rsa
+   16  cat /home/ec2-user/.ssh/id_rsa.pub
+   17  git clone git@github.com:Shashikuamar/Git7026.git
+   18  ls
+   19  cd Git7026/
+   20  git branch
+   21  git checkout -b oneplus-5000
+   22  git branch
+   23  ls
+   24  vim hello.py.txt
+   25  git add .
+   26  git commit -m "adding the variable for new branch"
+   27  git push origin oneplus-5000
+   28  clrar
+   29  clear
+   30  yum list maven
+   31  sudo yum install maven
+   32  mvn -v
+   33  sudo yum install maven
+   34  clear
+   35  mvn archetype:generate -DgroupId=demo -DartifactId=demomavenproject -DarchetypeArtifactId= maven-archetype-quickstart
+   36  cd ..
+   37  clear
+   38  mvn -v
+   39  mvn archetype:generate -DgroupId=demo -DartifactId=demomavenproject -DarchetypeArtifactId= maven-archetype-quickstart
+   40  mvn -v
+   41  clear
+   42  mvn archetype:generate -DgroupId=demo -DartifactId=demomavenproject -DarchetypeArtifactId= maven-archetype-quickstart
+   43  mvn archetype:generate -DgroupId=demo -DartifactId=demomavenproject -DarchetypeArtifactId=maven-archetype-quickstart
+   44  ls
+   45  cd demomavenproject/
+   46  ls
+   47  cd src
+   48  ls
+   49  cd main/
+   50  ls
+   51  cat java
+   52  cd../..
+   53  cd ../..
+   54  mvn clean install
+   55  clear
+   56  mvn clean install
+   57  ls
+   58  vim pom.xml
+   59  mvn archetype:generate -DgroupId=demo -DartifactId=demomavenproject -DarchetypeArtifactId=maven-archetype-quickstart
+   60  clear
+   61  ls
+   62  vim pom.xml
+   63  mvn clean install
+   64  vim pom.xml
+   65  java -version
+   66  mvn clean install
+   67  mvn clean
+   68  mvn install
+   69  ls
+   70  cd demomavenproject/
+   71  mvn -v
+   72  java -v
+   73  java -version
+   74  ls
+   75  mvn clean install
+   76  ls
+   77  vin pom.xml
+   78  vim pom.xml
+   79  mvn -v
+   80  java -v
+   81  java -version
+   82  ls
+   83  cd demomavenproject/
+   84  ls
+   85  vim pom.xml
+   86  mvn clean install
+   87  ls
+   88  cd demomavenproject/
+   89  ls
+   90  vim pom.xml
+   91  ls
+   92  cd demomavenproject/
+   93  mvn clean install
+   94  mvn clean package
+   95  cd ..
+   96  c
+   97  mvn archetype:generate -DgroupId=com.shashitech -DartifactId=passport-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.5
+   98  ls
+   99  cd passport-app/
+  100  ls
+  101  vim pom.xml
+  102  mvn clean install
+  103  ls
+  104  cd ..
+  105  ls
+  106  rm -r demomavenproject/
+  107  rm -r passport-app/
+  108  ls
+  109  mvn archetype:generate -DgroupId=demo -DartifactId=demomavenproject -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.5
+  110  mvn clean install
+  111  cd demomavenproject/
+  112  mvn clean install
+  113  ls
+  114  cd target/
+  115  ls
+  116  java -jar target/mvn-example-1.0-SNAPSHOT.jar demomavenproject.App
+  117  ls
+  118  ls -la
+  119  sudo chmod +x demomavenproject-1.0-SNAPSHOT.jar
+  120  ls -la
+  121  java -jar target/mvn-example-1.0-SNAPSHOT.jar demomavenproject.App
+  122  cd
+  123  cd demomavenproject/
+  124  maven clean package
+  125  mvn clean package
+  126  cd target/
+  127  ls
+  128  java -jar target/mvn-example-1.0-SNAPSHOT.jar demomavenproject.App
+  129  cd ..
+  130  ls
+  131  cd src
+  132  ls
+  133  cd main
+  134  ls
+  135  cd java/
+  136  ls
+  137  cd demo/
+  138  ls
+  139  vim App.java
+  140  cd
+  141  cd demomavenproject/
+  142  cd target/
+  143  java -jar target/mvn-example-1.0-SNAPSHOT.jar demo.App
+  144  ls
+  145  ls -la
+  146  sudo chmod +x demomavenproject-1.0-SNAPSHOT.jar
+  147  ls -la
+  148  java -jar target/mvn-example-1.0-SNAPSHOT.jar demo.App
+  149  cd ..
+  150  java -version
+  151  cd demomavenproject/
+  152  ls
+  153  cd target
+  154  java -cp demomavenproject-1.0-SNAPSHOT.jar demo.APP
+  155  cd ..
+  156  ls
+  157  vim pom.xml
+  158  cd target/
+  159  cd ..
+  160  mvn clean
+  161  ls
+  162  mvn clean install
+  163  ls
+  164  cd target/
+  165  ls
+  166  ls -l
+  167  history
+  168  ls
+  169  cd
+  170  ls
+  171  cd demomavenproject/
+  172  ls
+  173  cd target/
+  174  cd ..
+  175  vim pom.xml
+  176  cd target/
+  177  java -cp demomavenproject-1.0-SNAPSHOT.jar com.demo.app.APP
+  178  cd ..
+  179  mvn clean
+  180  ls
+  181  cd ..
+  182  cd demomavenproject/
+  183  ls
+  184  cd ..
+  185  rm -r demomavenproject/
+  186  ls
+  187  mvn archetype:generate -DgroupId=shashi.com -DartifactId=passport-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.5
+  188  cd passport-app/
+  189  ls
+  190  cd src/
+  191  ls
+  192  cd main/
+  193  ls
+  194  cd java/
+  195  ls
+  196  cd shashi/
+  197  ls
+  198  cd com
+  199  ls
+  200  vim App.java
+  201  cd ..
+  202  cd ../..
+  203  ls
+  204  cd ..
+  205  ls
+  206  cd test/
+  207  ls
+  208  cd java/
+  209  ls
+  210  cd shashi/
+  211  ls
+  212  cd com/
+  213  ls
+  214  vim AppTest.java
+  215  cd ../..
+  216  ls
+  217  cd passport-app/
+  218  mvn clean install
+  219  ls
+  220  cd target/
+  221  mvn clean
+  222  cd ..
+  223  ls
+  224  mvn clean
+  225  ls
+  226  cd src/
+  227  ls
+  228  cd main/java/shashi/com/
+  229  ls
+  230  vim App.java
+  231  cd ../..
+  232  cd
+  233  cd passport-app/
+  234  ls
+  235  mvn clean install
+  236  ls
+  237  cd target/
+  238  java -cp passport-app-1.0-SNAPSHOT.jar shashi.com.App
+  239  cd ..
+  240  ls
+  241  vim pom.xml
+  242  cd src/main/java/
+  243  ls
+  244  cd shashi
+  245  ls
+  246  cd com/
+  247  ls
+  248  vim App.java
+  249  cd ..
+  250  cd
+  251  cd passport-app/
+  252  cd target/
+  253  cd ../src/main/java/shashi/com/
+  254  ls
+  255  vim App.java
+  256  cd
+  257  clear
+  258  cd passport-app/
+  259  git init
+  260  git branch
+  261  git branch -m development
+  262  git branch
+  263  ls
+  264  git status
+  265  git add .
+  266  git status
+  267  git commit -m "first"
+  268  git status
+  269  git push
+  270  git status
+  271  cd passport-app/
+  272  gut status
+  273  git branch
+  274  git status
+  275  ls
+  276  git push origin development
+  277  git push origin development git@github.com:Shashikuamar/shashipassport.git
+  278  git branch
+
